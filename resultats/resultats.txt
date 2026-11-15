@@ -1,0 +1,11 @@
+Partie 1 : K = 2, m = 2.0, epsilon = 0.01
+Centres trouvés : 27.44 (sombre) et 112.78 (clair)
+Nombre d'itérations : 12
+Pixels du cluster 1 (segmentation nette) : 66.5 %
+Pixels du cluster 2 (segmentation nette) : 33.5 %
+
+Partie 2 : effet de m (K = 2, mêmes réglages sinon)
+m = 1.5 : centres = 28.6 et 113.4, 11 itérations, pixels avec appartenance max < 0.8 : 7.4 %
+m = 2.0 : centres = 27.4 et 112.8, 12 itérations, pixels avec appartenance max < 0.8 : 15.3 %
+m = 3.0 : centres = 25.6 et 110.9, 14 itérations, pixels avec appartenance max < 0.8 : 31.7 %
+m = 5.0 : centres = 24.3 et 109.4, 21 itérations, pixels avec appartenance max < 0.8 : 75.5 %
