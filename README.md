@@ -1,6 +1,4 @@
 # TP Fuzzy C-means
-## Bilal D.
-## M2VMI
 
 Implémentation de l'algorithme Fuzzy C-means
 et application à la segmentation floue d'une image de la Voie lactée en niveaux de gris.
